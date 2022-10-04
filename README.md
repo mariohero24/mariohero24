@@ -2,7 +2,7 @@
 <html>
 <body>
 <p>Discord Bot Developer</p>
-<a href="url">[Invite here](https://bot.bow.futbol/)</a>
+<a href="https://bot.cow.futbol">Invite here</a>
 </p>
 </body>
 </html>
