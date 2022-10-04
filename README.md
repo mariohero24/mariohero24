@@ -1,3 +1,4 @@
 ```py
-Discord bot developer\nhttps://bot.bow.futbol/
+Discord bot developer
+https://bot.bow.futbol/
 ```
