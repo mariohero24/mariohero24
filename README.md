@@ -1,1 +1,2 @@
-I exist
+Discord bot developer
+https://bot.bow.futbol/
