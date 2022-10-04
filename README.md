@@ -1,2 +1,3 @@
-Discord bot developer
-https://bot.bow.futbol/
+```py
+Discord bot developer\nhttps://bot.bow.futbol/
+```
